@@ -1,4 +1,4 @@
-package chap02;
+package com.ykoh.chap02;
 
 public class Player {
     int number = 0;

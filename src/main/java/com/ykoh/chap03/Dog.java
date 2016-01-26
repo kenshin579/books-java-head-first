@@ -1,4 +1,4 @@
-package chap03;
+package com.ykoh.chap03;
 
 public class Dog {
     String name;

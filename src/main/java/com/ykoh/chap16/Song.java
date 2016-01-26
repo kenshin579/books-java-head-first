@@ -1,4 +1,4 @@
-package chap16;
+package com.ykoh.chap16;
 
 public class Song implements Comparable<Song> {
     String title;

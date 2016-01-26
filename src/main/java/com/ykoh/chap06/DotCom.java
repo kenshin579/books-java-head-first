@@ -1,4 +1,4 @@
-package chap06;
+package com.ykoh.chap06;
 
 import java.util.ArrayList;
 

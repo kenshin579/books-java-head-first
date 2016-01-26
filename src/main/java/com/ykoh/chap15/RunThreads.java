@@ -1,4 +1,4 @@
-package chap15;
+package com.ykoh.chap15;
 
 public class RunThreads implements Runnable {
     public static void main(String[] args) {

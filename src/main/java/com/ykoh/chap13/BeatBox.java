@@ -1,4 +1,4 @@
-package chap13;
+package com.ykoh.chap13;
 // chapter 13
 
 import javax.sound.midi.*;

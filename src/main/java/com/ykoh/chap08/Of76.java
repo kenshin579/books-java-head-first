@@ -1,4 +1,4 @@
-package chap08;
+package com.ykoh.chap08;
 
 
 public class Of76 extends Clowns {

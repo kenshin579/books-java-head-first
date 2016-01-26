@@ -1,6 +1,7 @@
-package chap06;
+package com.ykoh.chap06;
 
-import helpers.GameHelper;
+
+import com.ykoh.chap05.GameHelper;
 
 import java.util.ArrayList;
 

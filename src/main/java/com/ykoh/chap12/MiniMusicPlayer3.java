@@ -1,4 +1,4 @@
-package chap12;
+package com.ykoh.chap12;
 
 import javax.sound.midi.*;
 import javax.swing.*;

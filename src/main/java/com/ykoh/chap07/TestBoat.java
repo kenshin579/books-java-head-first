@@ -1,4 +1,4 @@
-package chap07;
+package com.ykoh.chap07;
 
 public class TestBoat {
     public static void main(String[] args) {

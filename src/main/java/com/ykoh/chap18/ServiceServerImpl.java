@@ -1,4 +1,4 @@
-package chap18;
+package com.ykoh.chap18;
 
 import java.rmi.Naming;
 import java.rmi.RemoteException;

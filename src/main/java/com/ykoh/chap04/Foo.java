@@ -1,4 +1,4 @@
-package chap04;
+package com.ykoh.chap04;
 
 
 //this shouldn't compile

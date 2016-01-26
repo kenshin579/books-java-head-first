@@ -1,4 +1,4 @@
-package chap04;
+package com.ykoh.chap04;
 
 public class GoodDogTestDrive {
     public static void main(String[] args) {

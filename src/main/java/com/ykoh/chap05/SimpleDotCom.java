@@ -1,4 +1,4 @@
-package chap05;
+package com.ykoh.chap05;
 
 public class SimpleDotCom {
     int[] locationCells;

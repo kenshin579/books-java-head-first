@@ -1,4 +1,4 @@
-package chap18;
+package com.ykoh.chap18;
 
 public class PhraseOMatic2 {
     public static String makePhrase() {

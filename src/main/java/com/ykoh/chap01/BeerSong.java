@@ -1,4 +1,4 @@
-package chap01;
+package com.ykoh.chap01;
 
 public class BeerSong {
     public static void main(String[] args) {

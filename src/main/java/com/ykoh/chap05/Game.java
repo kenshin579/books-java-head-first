@@ -1,6 +1,5 @@
-package chap05;
+package com.ykoh.chap05;
 
-import helpers.GameHelper;
 
 public class Game {
     public static void main(String[] args) {
