@@ -34,7 +34,7 @@ public class Jukebox5 {
 
     void getSongs() {
         try {
-            File file = new File("SongListMore.txt");
+            File file = new File("src/main/java/resources/SongList.txt");
             BufferedReader reader = new BufferedReader(new FileReader(file));
             String line = null;
             while ((line = reader.readLine()) != null) {
